@@ -1,7 +1,7 @@
-html>
+  <html>
   <head>
         <meta charset="utf-8">
-        <title>Los riesgos del internet</title>
+        <title> Los riesgos del internet </title>
     </head>
     <body>
 <H1> Riesgos del internet </H1>
